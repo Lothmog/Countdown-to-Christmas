@@ -1,0 +1,26 @@
+html{
+    background-color:;
+}
+
+nav{
+    color:white;
+    background-color: green;
+    max-width:fit-content;
+    min-height: 150px;
+    text-align: left;
+    border-radius: 9%;
+
+}
+
+header{
+    text-align: center;
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-family:;
+
+}
+
+body{
+    float: right;
+}
